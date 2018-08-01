@@ -1,2 +1,2 @@
 # images
-Save the images used for the 'My_Note'.
+保存md中用到的所有素材
